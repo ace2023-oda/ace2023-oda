@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #014da2;
+      }
+
+      .cls-3 {
+        font-family: AppleSDGothicNeo-ExtraBold-KSCpc-EUC-H, 'Apple SD Gothic Neo';
+        font-size: 46.84px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" width="180" height="180" rx="37.39" ry="37.39"/>
+    <path class="cls-2" d="m118.61,24h-57.22c-20.65,0-37.39,16.74-37.39,37.39v57.22c0,20.65,16.74,37.39,37.39,37.39h57.22c20.65,0,37.39-16.74,37.39-37.39v-57.22c0-20.65-16.74-37.39-37.39-37.39Zm25.39,95.59c0,13.48-10.93,24.41-24.41,24.41h-59.18c-13.48,0-24.41-10.93-24.41-24.41v-59.18c0-13.48,10.93-24.41,24.41-24.41h59.18c13.48,0,24.41,10.93,24.41,24.41v59.18Z"/>
+    <text class="cls-3" transform="translate(44.47 105.57) scale(.99 1)"><tspan x="0" y="0">blog</tspan></text>
+  </g>
+</svg>
